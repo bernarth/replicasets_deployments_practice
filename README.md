@@ -1,0 +1,2 @@
+# replicasets_deployments_practice
+Practice kubernetes replicasets and deployments
