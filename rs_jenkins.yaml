@@ -4,7 +4,7 @@ metadata:
   name: jenkins-rs
   labels:
     app: jenkins-server
-    env: dev
+    env: test
     tier: web-server
 spec:
   replicas: 2
